@@ -28,3 +28,12 @@ scratch/
 # IDE settings
 .vscode/
 .idea/
+# Google OAuth credentials and tokens
+credentials.json
+token.json
+client_secret*.json
+
+# Google OAuth credentials and tokens
+credentials.json
+token.json
+client_secret*.json
