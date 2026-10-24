@@ -1,0 +1,6 @@
+﻿post_id,posted_at,location,job_title,description,recruiter_email,post_url
+P001,2026-10-24T15:30:00,New York NY USA,Java Developer C2C,"Java developer contract C2C opportunity",recruiter1@example.com,https://example.com/post/1
+P002,2026-10-24T12:00:00,Dallas TX USA,Senior Java Developer,"Java developer W2 full-time opportunity",recruiter2@example.com,https://example.com/post/2
+P003,2026-10-22T10:00:00,New Jersey USA,Java Developer C2C,"C2C contract role",recruiter3@example.com,https://example.com/post/3
+P004,2026-10-24T14:00:00,Chennai India,Java Developer C2C,"US contract role",recruiter4@example.com,https://example.com/post/4
+P005,2026-10-24T16:00:00,Chicago IL USA,Python Developer C2C,"Python developer contract C2C opportunity",recruiter5@example.com,https://example.com/post/5

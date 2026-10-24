@@ -1,0 +1,30 @@
+# Python virtual environment
+.venv/
+
+# Secrets and environment configuration
+.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Browser/session credentials
+session.json
+
+# Personal or generated data
+data/*
+!data/sample_posts.csv
+
+reports/*
+!reports/.gitkeep
+
+resumes/*
+!resumes/.gitkeep
+
+# Temporary files
+scratch/
+*.tmp
+
+# IDE settings
+.vscode/
+.idea/
